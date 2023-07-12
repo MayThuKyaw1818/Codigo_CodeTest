@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\POS_System.csproj": {}
+    "D:\\CodeTest\\POS_System\\POS_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\POS_System.csproj": {
+    "D:\\CodeTest\\POS_System\\POS_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\POS_System.csproj",
+        "projectUniqueName": "D:\\CodeTest\\POS_System\\POS_System.csproj",
         "projectName": "POS_System",
-        "projectPath": "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\POS_System.csproj",
+        "projectPath": "D:\\CodeTest\\POS_System\\POS_System.csproj",
         "packagesPath": "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\obj\\",
+        "outputPath": "D:\\CodeTest\\POS_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\May Thu Kyaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,6 +68,10 @@
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

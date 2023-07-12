@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKxaGS8OtIUbwLA4spGsk3hLZKKEu9EHaTXHhWkRBxzOuxZC4pKxNs2kRxC/VKboPCr25y0WDBy3wGLk0viJtA==",
+  "dgSpecHash": "b2Qv3M/zXccFX3+iexEfjFKoBxg27I/zauA30QkE/gXkYnDNvH/6dn1uZKt6B3g09LLV+y/qOV5lsb2zIeyrCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\May Thu Kyaw\\Desktop\\POS_System\\POS_System\\POS_System.csproj",
+  "projectFilePath": "D:\\CodeTest\\POS_System\\POS_System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -42,6 +42,7 @@
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\mysql.data\\8.0.33\\mysql.data.8.0.33.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\mysql.entityframeworkcore\\7.0.2\\mysql.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\May Thu Kyaw\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

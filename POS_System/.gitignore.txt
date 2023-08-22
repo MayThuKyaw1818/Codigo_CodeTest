@@ -1,5 +1,6 @@
 ﻿.svn/
-*.vs/
+.vs/
+*.vsidx
 POS_System/bin/
 POS_System/obj/
 .pubxml

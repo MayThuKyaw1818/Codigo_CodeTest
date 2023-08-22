@@ -1,8 +1,9 @@
 ﻿.svn/
-.vs/
+*.vs/
 POS_System/bin/
 POS_System/obj/
 .pubxml
+/POS_System/bin/Debug
 /POS_System/obj/Debug
 /build/
 *.suo

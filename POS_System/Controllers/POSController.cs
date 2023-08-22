@@ -19,14 +19,14 @@ namespace POS_System.Controllers
             _memberService = memberService;
         }
 
-        [HttpPost]
-        [Route("PointAPI")]
-        public PointResponseModel PointAPI(PointRequestModel requestModel)
-        {
-            var pointResponseModel = _pointService.PointAPIService(requestModel);
+        //[HttpPost]
+        //[Route("PointAPI")]
+        //public PointResponseModel PointAPI(PointRequestModel requestModel)
+        //{
+        //    var pointResponseModel = _pointService.PointAPIService(requestModel);
 
-            return pointResponseModel;
-        }
+        //    return pointResponseModel;
+        //}
 
         [HttpGet]
         [Route("PurchaseHistoryAPI")]
